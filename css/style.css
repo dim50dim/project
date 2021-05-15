@@ -1,6 +1,11 @@
-
-h2 {
-    margin: 0 auto;
-    text-align: center;
-    margin-top: 200px;
+body {
+    background-color: rgb(6, 105, 122);
+}
+.div{
+    margin-top:  170px;
+    margin-left: 150px;
+}
+.area {
+    margin-bottom: 30px;
+    color: white;
 }
