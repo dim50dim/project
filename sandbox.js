@@ -20,15 +20,15 @@ document.querySelector('.btn').onclick = btn;
  
 //     let newArr = [];
 //     if(newArr.length == 0) {
-//      return alert('that is empty');
+//      return 'that is empty';
 //     }
     
 //     for(let i = 0; i < arr.length; i++){
 //       if(arr[i] > 0){
-//         return alert(newArr = arr.push(arr[i]));
+//         return alert(newArr[newArr[i]] = arr[i]);
       
 //       }
 //     }
 // }
 
-func(arr);
+// func(arr);
